@@ -1,6 +1,6 @@
 # Transformers Notebooks
 
-This repository contains the example code from our O'Reilly book [Natural Language Processing with Transformers](https://learning.oreilly.com/library/view/natural-language-processing/9781098103231/):
+This repository contains the example code from the O'Reilly book [Natural Language Processing with Transformers](https://learning.oreilly.com/library/view/natural-language-processing/9781098103231/):
 
 <img alt="book-cover" height=200 src="images/book_cover.jpg" id="book-cover"/>
 
